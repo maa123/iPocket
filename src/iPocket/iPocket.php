@@ -11,6 +11,7 @@ namespace iPocket{
 	const MINECRAFT_VERSION = "v0.13.1 alpha";
 	const MINECRAFT_VERSION_NETWORK = "0.13.1";
 	const IPOCKET_HOST_SERVER_URL = "http://api.ipocket.link";
+	const IPOCKET_HOST_LOGIN = "http://auth.ipocket.link";
 	set_time_limit(0);//勝手に終了されないように
     	ini_set("allow_url_fopen", 1);//インターネットに接続
 	ini_set("display_errors", 1);
